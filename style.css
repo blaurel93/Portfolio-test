@@ -1,6 +1,12 @@
-h1 { 
-    color: red;
+body {
+    background-color: #efeee7;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: #333333;
 }
-h3 {
-    color: green; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #333333;
 }
